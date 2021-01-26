@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# <p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-xrm0dtm-hig/YBBrcXA-zyI/AAAAAAAABH0/5Bphbc7dwrM4jTOUq_EbSzS3JOvUhAmfgCLcBGAsYHQ/s318/Logo.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="159" data-original-width="318" src="https://1.bp.blogspot.com/-xrm0dtm-hig/YBBrcXA-zyI/AAAAAAAABH0/5Bphbc7dwrM4jTOUq_EbSzS3JOvUhAmfgCLcBGAsYHQ/s0/Logo.jpg" /></a></div><br />&nbsp;<p></p>
 ## Header 2
 ### Header 3
 
